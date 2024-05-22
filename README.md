@@ -5,11 +5,15 @@ HPE has a long and deep history of engineering collaboration and open source eng
 A sample of key HPE GitHub organizations where substantive development projects are found:
 1. [Hewlett Packard Enterprise](https://github.com/hewlettpackard)
 2. [Aruba](https://github.com/aruba)
-3. [Fabric Attached Memory](https://github.com/fabricattachedmemory)
-4. [Grommet](https://github.com/grommet)
-5. [HPE Networking](https://github.com/hpenetworking)
-6. [HPE Nimble Storage](https://github.com/nimblestorage)
-7. [HPE Storage](https://github.com/hpe-storage)
+3. [Cray](https://github.com/cray)
+4. [Determined](https://github.com/determined-ai)
+5. [Pachyderm](https://github.com/pachyderm)
+6. [Chapel](https://github.com/chapel-lang/)
+7. [Grommet](https://github.com/grommet)
+9. [Fabric Attached Memory](https://github.com/fabricattachedmemory)
+10. [HPE Networking](https://github.com/hpenetworking)
+11. [HPE Nimble Storage](https://github.com/nimblestorage)
+12. [HPE Storage](https://github.com/hpe-storage)
 
 For additional information re: HPE's developer projects and activities, visit the [HPE Developer Portal](https://developer.hpe.com/).
 
