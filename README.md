@@ -14,10 +14,11 @@ A sample of key HPE GitHub organizations where substantive development projects 
 11. [HPE Networking](https://github.com/hpenetworking)
 12. [HPE Nimble Storage](https://github.com/nimblestorage)
 13. [HPE Storage](https://github.com/hpe-storage)
-14. [Pachyderm](https://github.com/pachyderm)
-15. [SmartSim](https://github.com/CrayLabs/SmartSim)
-16. [SPIFFE/SPIRE](https://github.com/spiffe)
-17. [Zerto](https://github.com/ZertoPublic)
+14. [OpsRamp](https://github.com/opsramp)
+15. [Pachyderm](https://github.com/pachyderm)
+16. [SmartSim](https://github.com/CrayLabs/SmartSim)
+17. [SPIFFE/SPIRE](https://github.com/spiffe)
+18. [Zerto](https://github.com/ZertoPublic)
 
 For additional information re: HPE's developer projects and activities, visit the [HPE Developer Community Portal](https://developer.hpe.com/).
 
